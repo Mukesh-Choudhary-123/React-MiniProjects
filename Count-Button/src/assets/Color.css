@@ -1,6 +1,24 @@
 .boxs {
   display: flex;
 }
+.heading {
+  display: flex;
+}
+.heading h2 {
+  margin-top: 14px;
+  margin-left: -90px;
+  font-family: fangsong;
+}
+.state1 {
+  margin-left: 30px;
+  color: #3295cd;
+  font-family: cursive;
+}
+.state2 {
+  margin-left: 65px;
+  color: yellowgreen;
+  font-family: cursive;
+}
 .box-1 {
   background-color: rgba(0, 170, 255, 0.637);
   padding: 5px 15px;
@@ -13,4 +31,7 @@
   padding: 5px 15px;
   border-radius: 16px;
   width: 140px;
+}
+p {
+  font-family: cursive;
 }

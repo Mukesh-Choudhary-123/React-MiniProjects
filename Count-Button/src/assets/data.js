@@ -1,10 +1,10 @@
 const data = {
   first: {
-    color1: "blue",
+    color1: "Blue",
     titel1: "I am Blue",
   },
   second: {
-    color2: "green",
+    color2: "Green",
     titel2: "I am Green",
   },
 };
