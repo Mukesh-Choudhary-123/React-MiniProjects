@@ -1,0 +1,38 @@
+input {
+  /* border: none; */
+  outline: none;
+  border-radius: 16px 0px 0px 16px;
+  padding: 8px;
+  height: 20px;
+  background-color: #242424;
+  color: aliceblue;
+}
+
+.add {
+  height: 38px;
+  width: 50px;
+  margin-left: 5px;
+  border-radius: 0px 16px 16px 0px;
+}
+.add:hover {
+  background-color: rgb(64, 100, 63);
+  color: rgb(254, 123, 152);
+}
+.list {
+  display: flex;
+}
+.tasklist {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.cross {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+.del {
+  margin-top: 10px;
+  height: 20px;
+}
+.up {
+  margin-left: 10px;
+}
