@@ -21,9 +21,11 @@ input {
 .list {
   display: flex;
 }
+
 .tasklist {
   margin-top: 10px;
   margin-right: 20px;
+  color: black;
 }
 .cross {
   text-decoration: line-through;
