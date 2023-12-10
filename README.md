@@ -11,7 +11,6 @@ React is a JavaScript library for building user interfaces. It is declarative, e
    ## 🌠 Calculator 🔥 (useReducer)
     The React useReducer Hook is a function that allows you to manage complex state logic in React applications. 
     It is similar to the useState Hook, but it provides a more efficient way to update state when the state logic is complex.
-   ![Untitled design](https://github.com/Mukesh-Choudhary-123/React-MiniProjects/assets/118448246/8969f7bf-b57b-4c11-bc26-e5987456ed6e)
    ### 👉The source code of Calculator [click here.](https://github.com/Mukesh-Choudhary-123/React-MiniProjects/blob/main/Calculator/src/App.jsx)
    ![Calculator](https://github.com/Mukesh-Choudhary-123/React-MiniProjects/assets/118448246/5fdacf2c-cf9c-4f9a-87d8-d9ea3007b218)
    ## ⚡count button 🔥, lottery game 🔥 (useState)
